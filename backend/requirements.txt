@@ -1,0 +1,12 @@
+channels
+Django
+django-channels-graphql-ws
+django-cors-headers
+django-filter
+django-graphql-auth
+django-graphql-jwt
+frozenlist
+graphene
+graphene-django
+PyJWT
+  
